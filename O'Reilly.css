@@ -1,0 +1,96 @@
+.homepage{
+  background-color:#f4f0e8; 
+  color: #42145f;
+}
+
+.form-group.required .control-label:before, .dropdown:before{
+    color: red;
+    content: "*";
+    position: absolute;
+    margin-left: -15px;
+    }
+
+.navbar {
+  height: 5rem; 
+  padding-bottom: 5rem;
+}
+
+.welcome h1{
+  background-color: #42145f; 
+  color: white; 
+  padding: 1rem;
+  margin-left: -15px;
+  margin-right: -15px;
+  font-weight: 400;
+}
+
+.coe{
+  background-color: #c8b9d7;
+}
+.coe p{
+  padding: 3rem;
+  font-weight: 500;
+}
+
+a {
+  color:#42145f;
+  font-weight: 800;
+  text-decoration: underline #42145f;
+}   
+a:visited {columns: #5e10b1;}      
+a:hover {color: #5e10b1;}   
+a:active {color: #42145f;}  
+
+.thead{
+  background-color: #42145f; 
+  color: white;
+}
+
+.newuser, .pointer {
+  border-bottom: #42145f 3px solid;
+}
+.newuser p{
+  padding: 3rem;
+  font-weight: 500;
+  padding-right: 1rem;
+}
+
+.pointer img{
+  margin-left: -50px;
+  margin-top: 3rem;
+  object-fit: contain;
+}
+
+.computer img{
+  padding: 3rem;
+  object-fit: contain;
+}
+
+.user p{
+  padding: 3rem;
+  font-weight: 500;
+}
+
+.buttons{
+  padding: 3rem;
+}
+
+.btn-home{
+  height: 50px;
+  width: 202px;
+  margin-right: 16px;
+  margin-top: 16px;
+  color: white; 
+  background-color: #42145f;
+}
+
+.btn-home:hover{
+  background-color: #5a2a7d;
+}
+
+.modal-footer .btn {
+  height: 40px;
+  width: 64px;
+}
+
+  
